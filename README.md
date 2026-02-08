@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Algorand dApp Quick Start Guide (Base Template)
 
 This guide helps non‑technical founders and developers quickly prototype and test Web3 ideas on Algorand using this starter. You’ll set up the project, customize the UI via safe AI prompts, mint tokens and NFTs, and interact with smart contracts.
@@ -334,9 +333,3 @@ Links cited:
 - AlgoKit Workshops: `https://algorand.co/algokit-workshops`
 - Algodevs YouTube: `https://www.youtube.com/@algodevs`
 - Pinata API Keys: `https://app.pinata.cloud/developers/api-keys`
-
-
-=======
-# ZKP-Vault
-This is a hackathon project for Algorand which creates an AI which locally on the student's machine. It detects cheating (e.g., looking away, a second person). Instead of uploading the video, the AI generates a "Trust Score."
->>>>>>> d36f0c9aba8619e39e0015cf1e11bac7ef27d8cc
